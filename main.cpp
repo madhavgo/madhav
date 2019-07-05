@@ -10,7 +10,8 @@ int main(void)
         int su=n*i;
         printf("%d",su);
         printf("\n");
-    }
+
+
 
     return 0;
 }
